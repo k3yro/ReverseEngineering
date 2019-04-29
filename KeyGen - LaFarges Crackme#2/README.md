@@ -1,5 +1,5 @@
 # Keygen für LaFarges Crackme v2
-Disassembliert in C mit x64dbg und Code::Blocks.
+Disassembled in C with x64dbg and Code::Blocks. More information in main.c file.
 
 Thanks to LaFarge for the crackme.exe 
 
